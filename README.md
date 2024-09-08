@@ -29,8 +29,7 @@ Com ela, você pode pesquisar por suas Gemas favoritas e descobrir detalhes incr
 * **Imagens:** Quero adicionar imagens de cada Gema para deixar a experiência ainda mais visual.
 
 **Contribua com este projeto!**
-
-Se você é fã de Steven Universe e sabe programar, fique à vontade para contribuir com este projeto! Você pode ajudar a adicionar novas funcionalidades, corrigir bugs ou melhorar o design.
+Se você é fã de Steven Universe e sabe programar, fique à vontade para contribuir com este projeto!
 
 **#StevenUniverse #Programação #WebDev #OpenSource #css #javascript #html**
 
