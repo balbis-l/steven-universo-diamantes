@@ -36,4 +36,4 @@ Se você é fã de Steven Universe e sabe programar, fique à vontade para contr
 
 **#StevenUniverse #Programação #WebDev #OpenSource #css #javascript #html**
 
-**Observações:**
+**https://github.com/balbis-l/steven-universo-diamantes/tree/main**
